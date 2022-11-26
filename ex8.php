@@ -15,7 +15,7 @@
 
   $celFah= $temperatura*1.8 +32;
 
- echo "A temperatura em Celcius e :".$celFah;
+ echo "A temperatura em Fahrenheit e :".$celFah;
 
  ?>
  </body>
